@@ -9,4 +9,4 @@ Ressources issues des marque-pages Firefox (export du 22 novembre 2026). Les lie
 - [IP Address Lookup — Geolocation](https://www.iplocation.net/ip-lookup)
 - [CSS Formatter](https://www.cleancss.com/css-beautify/)
 - [Web Check](https://web-check.xyz)
-- [Zphisher] (https://github.com/htr-tech/zphisher)
+- [Zphisher](https://github.com/htr-tech/zphisher)
